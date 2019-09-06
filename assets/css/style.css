@@ -1,0 +1,28 @@
+body *{
+margin: 0 0 0 0;
+padding: 0 0 0 0;
+}
+body{
+  font-family: 'Roboto',sans-serif;
+}
+.titulo{
+  font-weight: 700;
+}
+nav h4, footer{
+  font-family: 'Gochi Hand',sans-serif;
+}
+nav, .trabajos, footer{
+  background-color: #660066;
+}
+footer i{
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+}
+.hero-section{
+  background-image: url('../img/bg_hero.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.header-text{
+  margin-top: 19rem;
+}
